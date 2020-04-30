@@ -4,7 +4,7 @@ LAB-3750G-48:
     groups:
         - 'labciscos'
 
-LAB-3550:
-    hostname: 'LAB-3550'
+WS-C3550-24-SMI:
+    hostname: 'WS-C3550-24-SMI'
     groups:
         - 'labciscos'
